@@ -10,5 +10,7 @@
     "community-token"
   ],
   "extensions": {
+    "website": "https://trummusk.com",
+    "twitter": "https://x.com/trummuskus"
   }
 }
